@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/EnglishWord/Scenes/SampleText.unity
+    guid: e71492677d5e3cd4d893fa858047d5e0
   m_configObjects: {}
