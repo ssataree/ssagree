@@ -17,6 +17,6 @@ public class ClickAudioType : MonoBehaviour
 
     public void OnClick()
     {
-        testGetAudioClip.OnClick(audioType);
+        //testGetAudioClip.OnClick(audioType);
     }
 }
